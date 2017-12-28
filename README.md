@@ -4,6 +4,6 @@ deployed project you can see at https://goal-desk.herokuapp.com/
 <ul>
   <li>React</li>
   <li>Redux</li>
-  <li>moment.js</li>
-  <li>cookies</li>  
+  <li>firebase</li>
+  <li>react-router</li>  
 </ul>
